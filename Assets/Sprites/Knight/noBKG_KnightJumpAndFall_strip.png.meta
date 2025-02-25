@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: ea5aee2d056dd4b4fbde0f06f93bf4a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2165001038142686867
+    second: noBKG_KnightJumpAndFall_strip_0
+  - first:
+      213: -3323219810877477076
+    second: noBKG_KnightJumpAndFall_strip_1
+  - first:
+      213: -1275732480562838495
+    second: noBKG_KnightJumpAndFall_strip_2
+  - first:
+      213: -6974088986635383677
+    second: noBKG_KnightJumpAndFall_strip_3
+  - first:
+      213: 7819318548096920562
+    second: noBKG_KnightJumpAndFall_strip_4
+  - first:
+      213: 1949507891400082561
+    second: noBKG_KnightJumpAndFall_strip_5
+  - first:
+      213: 2511048077603649539
+    second: noBKG_KnightJumpAndFall_strip_6
+  - first:
+      213: 513507753970481495
+    second: noBKG_KnightJumpAndFall_strip_7
+  - first:
+      213: 8278566502845999923
+    second: noBKG_KnightJumpAndFall_strip_8
+  - first:
+      213: -7022734580619261874
+    second: noBKG_KnightJumpAndFall_strip_9
+  - first:
+      213: 6344160088250257502
+    second: noBKG_KnightJumpAndFall_strip_10
+  - first:
+      213: 1235375693083715329
+    second: noBKG_KnightJumpAndFall_strip_11
+  - first:
+      213: 2282646019303360540
+    second: noBKG_KnightJumpAndFall_strip_12
+  - first:
+      213: 3917879321971269832
+    second: noBKG_KnightJumpAndFall_strip_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c8d839f0ab0e10800000000000000
+      internalID: 2165001038142686867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6b1e603d81e1d0800000000000000
+      internalID: -3323219810877477076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cf9b6110bb4ee0800000000000000
+      internalID: -1275732480562838495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5018317, y: 0.5656712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c42a7540f073f90800000000000000
+      internalID: -6974088986635383677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.58112323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fba0fc7accc38c60800000000000000
+      internalID: 7819318548096920562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5027597, y: 0.7036837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083e772ce809d220800000000000000
+      internalID: 2511048077603649539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5000009, y: 0.73278135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759b1d0e498502700800000000000000
+      internalID: 513507753970481495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5075638, y: 0.6994495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b65936f5063e270800000000000000
+      internalID: 8278566502845999923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4962167, y: 0.5957359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4846526b1c3a8e90800000000000000
+      internalID: -7022734580619261874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5418845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e501e5accfbfa0850800000000000000
+      internalID: 6344160088250257502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072866c5afe42110800000000000000
+      internalID: 1235375693083715329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_12
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c184988e5769daf10800000000000000
+      internalID: 2282646019303360540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c022fa4c7a1f5630800000000000000
+      internalID: 3917879321971269832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noBKG_KnightJumpAndFall_strip_14
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 0
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b7a45af5a5771469780c566183a167
+      internalID: -776446037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fcbb359e3dd910a42bcb8c096bfca641
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noBKG_KnightJumpAndFall_strip_0: 2165001038142686867
+      noBKG_KnightJumpAndFall_strip_1: -3323219810877477076
+      noBKG_KnightJumpAndFall_strip_10: 6344160088250257502
+      noBKG_KnightJumpAndFall_strip_11: 1235375693083715329
+      noBKG_KnightJumpAndFall_strip_12: 2282646019303360540
+      noBKG_KnightJumpAndFall_strip_13: 3917879321971269832
+      noBKG_KnightJumpAndFall_strip_14: -776446037
+      noBKG_KnightJumpAndFall_strip_2: -1275732480562838495
+      noBKG_KnightJumpAndFall_strip_3: -6974088986635383677
+      noBKG_KnightJumpAndFall_strip_4: 7819318548096920562
+      noBKG_KnightJumpAndFall_strip_5: 1949507891400082561
+      noBKG_KnightJumpAndFall_strip_6: 2511048077603649539
+      noBKG_KnightJumpAndFall_strip_7: 513507753970481495
+      noBKG_KnightJumpAndFall_strip_8: 8278566502845999923
+      noBKG_KnightJumpAndFall_strip_9: -7022734580619261874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

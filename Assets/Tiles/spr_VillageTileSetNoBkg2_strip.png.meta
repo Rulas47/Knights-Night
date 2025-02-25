@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: b0416f32731a771438c8a6d384ae2e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4348341865369477053
+    second: spr_VillageTileSetNoBkg2_strip_0
+  - first:
+      213: 5311077285423822107
+    second: spr_VillageTileSetNoBkg2_strip_1
+  - first:
+      213: -8403710100007561346
+    second: spr_VillageTileSetNoBkg2_strip_2
+  - first:
+      213: -6200175010022156459
+    second: spr_VillageTileSetNoBkg2_strip_3
+  - first:
+      213: 3125365967719740650
+    second: spr_VillageTileSetNoBkg2_strip_4
+  - first:
+      213: 2159907103447522119
+    second: spr_VillageTileSetNoBkg2_strip_5
+  - first:
+      213: -725728823954847227
+    second: spr_VillageTileSetNoBkg2_strip_6
+  - first:
+      213: -324167808640255248
+    second: spr_VillageTileSetNoBkg2_strip_7
+  - first:
+      213: 2580311125947177648
+    second: spr_VillageTileSetNoBkg2_strip_8
+  - first:
+      213: -984720934101535875
+    second: spr_VillageTileSetNoBkg2_strip_9
+  - first:
+      213: -33414715967895347
+    second: spr_VillageTileSetNoBkg2_strip_10
+  - first:
+      213: 4884755032889625645
+    second: spr_VillageTileSetNoBkg2_strip_11
+  - first:
+      213: 1477836795357430168
+    second: spr_VillageTileSetNoBkg2_strip_12
+  - first:
+      213: -9118431819748849536
+    second: spr_VillageTileSetNoBkg2_strip_13
+  - first:
+      213: 2544167974683315474
+    second: spr_VillageTileSetNoBkg2_strip_14
+  - first:
+      213: -1976331657903183358
+    second: spr_VillageTileSetNoBkg2_strip_15
+  - first:
+      213: 6834729991585779681
+    second: spr_VillageTileSetNoBkg2_strip_16
+  - first:
+      213: 8502712459536876961
+    second: spr_VillageTileSetNoBkg2_strip_17
+  - first:
+      213: 569967202428855651
+    second: spr_VillageTileSetNoBkg2_strip_18
+  - first:
+      213: 6114302291647726990
+    second: spr_VillageTileSetNoBkg2_strip_19
+  - first:
+      213: 882265815332750257
+    second: spr_VillageTileSetNoBkg2_strip_20
+  - first:
+      213: 8520105453653882453
+    second: spr_VillageTileSetNoBkg2_strip_21
+  - first:
+      213: -5195674827927930109
+    second: spr_VillageTileSetNoBkg2_strip_22
+  - first:
+      213: 102416499695455617
+    second: spr_VillageTileSetNoBkg2_strip_23
+  - first:
+      213: -5970577596065297086
+    second: spr_VillageTileSetNoBkg2_strip_24
+  - first:
+      213: 1653925841380241049
+    second: spr_VillageTileSetNoBkg2_strip_25
+  - first:
+      213: -5049932020046271843
+    second: spr_VillageTileSetNoBkg2_strip_26
+  - first:
+      213: -2987814169492282993
+    second: spr_VillageTileSetNoBkg2_strip_27
+  - first:
+      213: 3135773916917858664
+    second: spr_VillageTileSetNoBkg2_strip_28
+  - first:
+      213: 1181577740846320571
+    second: spr_VillageTileSetNoBkg2_strip_29
+  - first:
+      213: 1742806706039885238
+    second: spr_VillageTileSetNoBkg2_strip_30
+  - first:
+      213: -1145718847581187023
+    second: spr_VillageTileSetNoBkg2_strip_31
+  - first:
+      213: -1961427133522966173
+    second: spr_VillageTileSetNoBkg2_strip_32
+  - first:
+      213: 5190442100244958094
+    second: spr_VillageTileSetNoBkg2_strip_33
+  - first:
+      213: -3593032296057360129
+    second: spr_VillageTileSetNoBkg2_strip_34
+  - first:
+      213: 5252143695559303793
+    second: spr_VillageTileSetNoBkg2_strip_35
+  - first:
+      213: 3083208369663979337
+    second: spr_VillageTileSetNoBkg2_strip_36
+  - first:
+      213: 967619108355097451
+    second: spr_VillageTileSetNoBkg2_strip_37
+  - first:
+      213: -426701325961174486
+    second: spr_VillageTileSetNoBkg2_strip_38
+  - first:
+      213: 9198348150629385684
+    second: spr_VillageTileSetNoBkg2_strip_39
+  - first:
+      213: 3195934879536482948
+    second: spr_VillageTileSetNoBkg2_strip_40
+  - first:
+      213: -7068703042597942155
+    second: spr_VillageTileSetNoBkg2_strip_41
+  - first:
+      213: 3838380981288748369
+    second: spr_VillageTileSetNoBkg2_strip_42
+  - first:
+      213: -8207275673086679498
+    second: spr_VillageTileSetNoBkg2_strip_43
+  - first:
+      213: 5990369918268781092
+    second: spr_VillageTileSetNoBkg2_strip_44
+  - first:
+      213: -7096439044846745860
+    second: spr_VillageTileSetNoBkg2_strip_45
+  - first:
+      213: -4517489705362578250
+    second: spr_VillageTileSetNoBkg2_strip_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf9e4753e9685c30800000000000000
+      internalID: 4348341865369477053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15355cd6acb4b940800000000000000
+      internalID: 5311077285423822107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77dfa55036006b80800000000000000
+      internalID: -8403710100007561346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571066adad84f9a0800000000000000
+      internalID: -6200175010022156459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b70be9c78f5b20800000000000000
+      internalID: 3125365967719740650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b15d0211889fd10800000000000000
+      internalID: 2159907103447522119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac8ecca71bde5f0800000000000000
+      internalID: -725728823954847227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa71667813508bf0800000000000000
+      internalID: -324167808640255248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad1184c4b1fc320800000000000000
+      internalID: 2580311125947177648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73bcf717819552f0800000000000000
+      internalID: -984720934101535875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8867c2e79498ff0800000000000000
+      internalID: -33414715967895347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c003662d22ac340800000000000000
+      internalID: 4884755032889625645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89108474cb4528410800000000000000
+      internalID: 1477836795357430168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088404b4292d47180800000000000000
+      internalID: -9118431819748849536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d8ceb1b43be4320800000000000000
+      internalID: 2544167974683315474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a625404d8a294e0800000000000000
+      internalID: -1976331657903183358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efcd2427b6d9de50800000000000000
+      internalID: 6834729991585779681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5cbf1cee3bff570800000000000000
+      internalID: 8502712459536876961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_18
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365256a962ee8e700800000000000000
+      internalID: 569967202428855651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85050f0a8d5ad450800000000000000
+      internalID: 6114302291647726990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_20
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b30168a5107e3c00800000000000000
+      internalID: 882265815332750257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_21
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55678e5c4ce7d3670800000000000000
+      internalID: 8520105453653882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bbae8954145e7b0800000000000000
+      internalID: -5195674827927930109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_23
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d8c7b834bdb6100800000000000000
+      internalID: 102416499695455617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_24
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d4f925f4f342da0800000000000000
+      internalID: -5970577596065297086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eee443acce3f610800000000000000
+      internalID: 1653925841380241049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_26
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a654d55990be9b0800000000000000
+      internalID: -5049932020046271843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_27
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a88cc7d62986d0800000000000000
+      internalID: -2987814169492282993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_28
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86103dd63c1848b20800000000000000
+      internalID: 3135773916917858664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_29
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb47ade1bec56010800000000000000
+      internalID: 1181577740846320571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_30
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd0da12771bf2810800000000000000
+      internalID: 1742806706039885238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_31
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134147547c69910f0800000000000000
+      internalID: -1145718847581187023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_32
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690d850a6c97c4e0800000000000000
+      internalID: -1961427133522966173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_33
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b455c0797280840800000000000000
+      internalID: 5190442100244958094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_34
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0bef6d92cf22ec0800000000000000
+      internalID: -3593032296057360129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_35
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ae133ddc53e840800000000000000
+      internalID: 5252143695559303793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_36
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f255a3da1c9ca20800000000000000
+      internalID: 3083208369663979337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_37
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c26fc37cad6d00800000000000000
+      internalID: 967619108355097451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_38
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2265e0a76d041af0800000000000000
+      internalID: -426701325961174486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_39
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c2a678e817af70800000000000000
+      internalID: 9198348150629385684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_40
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8d0417dd3a5c20800000000000000
+      internalID: 3195934879536482948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_41
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c0a3bc80ce6ed90800000000000000
+      internalID: -7068703042597942155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_42
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c4567a2ba44530800000000000000
+      internalID: 3838380981288748369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_43
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a6f36246e91e80800000000000000
+      internalID: -8207275673086679498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_44
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b89bc3b1122350800000000000000
+      internalID: 5990369918268781092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_45
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf682b98942648d90800000000000000
+      internalID: -7096439044846745860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_VillageTileSetNoBkg2_strip_46
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 10
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b421633c07ae41c0800000000000000
+      internalID: -4517489705362578250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d77135dcb3e62ed46815607edecdb115
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_VillageTileSetNoBkg2_strip_0: 4348341865369477053
+      spr_VillageTileSetNoBkg2_strip_1: 5311077285423822107
+      spr_VillageTileSetNoBkg2_strip_10: -33414715967895347
+      spr_VillageTileSetNoBkg2_strip_11: 4884755032889625645
+      spr_VillageTileSetNoBkg2_strip_12: 1477836795357430168
+      spr_VillageTileSetNoBkg2_strip_13: -9118431819748849536
+      spr_VillageTileSetNoBkg2_strip_14: 2544167974683315474
+      spr_VillageTileSetNoBkg2_strip_15: -1976331657903183358
+      spr_VillageTileSetNoBkg2_strip_16: 6834729991585779681
+      spr_VillageTileSetNoBkg2_strip_17: 8502712459536876961
+      spr_VillageTileSetNoBkg2_strip_18: 569967202428855651
+      spr_VillageTileSetNoBkg2_strip_19: 6114302291647726990
+      spr_VillageTileSetNoBkg2_strip_2: -8403710100007561346
+      spr_VillageTileSetNoBkg2_strip_20: 882265815332750257
+      spr_VillageTileSetNoBkg2_strip_21: 8520105453653882453
+      spr_VillageTileSetNoBkg2_strip_22: -5195674827927930109
+      spr_VillageTileSetNoBkg2_strip_23: 102416499695455617
+      spr_VillageTileSetNoBkg2_strip_24: -5970577596065297086
+      spr_VillageTileSetNoBkg2_strip_25: 1653925841380241049
+      spr_VillageTileSetNoBkg2_strip_26: -5049932020046271843
+      spr_VillageTileSetNoBkg2_strip_27: -2987814169492282993
+      spr_VillageTileSetNoBkg2_strip_28: 3135773916917858664
+      spr_VillageTileSetNoBkg2_strip_29: 1181577740846320571
+      spr_VillageTileSetNoBkg2_strip_3: -6200175010022156459
+      spr_VillageTileSetNoBkg2_strip_30: 1742806706039885238
+      spr_VillageTileSetNoBkg2_strip_31: -1145718847581187023
+      spr_VillageTileSetNoBkg2_strip_32: -1961427133522966173
+      spr_VillageTileSetNoBkg2_strip_33: 5190442100244958094
+      spr_VillageTileSetNoBkg2_strip_34: -3593032296057360129
+      spr_VillageTileSetNoBkg2_strip_35: 5252143695559303793
+      spr_VillageTileSetNoBkg2_strip_36: 3083208369663979337
+      spr_VillageTileSetNoBkg2_strip_37: 967619108355097451
+      spr_VillageTileSetNoBkg2_strip_38: -426701325961174486
+      spr_VillageTileSetNoBkg2_strip_39: 9198348150629385684
+      spr_VillageTileSetNoBkg2_strip_4: 3125365967719740650
+      spr_VillageTileSetNoBkg2_strip_40: 3195934879536482948
+      spr_VillageTileSetNoBkg2_strip_41: -7068703042597942155
+      spr_VillageTileSetNoBkg2_strip_42: 3838380981288748369
+      spr_VillageTileSetNoBkg2_strip_43: -8207275673086679498
+      spr_VillageTileSetNoBkg2_strip_44: 5990369918268781092
+      spr_VillageTileSetNoBkg2_strip_45: -7096439044846745860
+      spr_VillageTileSetNoBkg2_strip_46: -4517489705362578250
+      spr_VillageTileSetNoBkg2_strip_5: 2159907103447522119
+      spr_VillageTileSetNoBkg2_strip_6: -725728823954847227
+      spr_VillageTileSetNoBkg2_strip_7: -324167808640255248
+      spr_VillageTileSetNoBkg2_strip_8: 2580311125947177648
+      spr_VillageTileSetNoBkg2_strip_9: -984720934101535875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+Movimiento lateral: a,d
+Salto: w
+Esquivar: shift
+Atqcar: click izq
